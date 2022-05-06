@@ -18,8 +18,8 @@ For the particular mancala game called *Gebeta*, once a player ends up their tur
 
 # Contributors
 
-1. Petros Beyene - *UGR/7992/12*
-2. Abdulkarim Getachew - *UGR/1308/12*
+1. Petros Beyene - *UGR/1308/12*
+2. Abdulkarim Getachew - *UGR/7992/12*
 
 # References
 
